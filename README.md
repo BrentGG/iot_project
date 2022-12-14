@@ -1,11 +1,8 @@
-# iot_project
+# IOT Project
 
-## to do:
+## To Do:
 
-- iot device (Pynq) connect to internet (secure)
-
-- openremote and config
-
-- update over the air (timer on X min for container pull)
-
-- random data send (in C program)
+- [ ] IOT device (Pynq) connect to internet (secure)
+- [ ] OpenRemote and config
+- [ ] Update over the air (timer on X min for container pull via Docker)
+- [ ] Send random data from Pynq

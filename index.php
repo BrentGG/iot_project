@@ -1,6 +1,6 @@
-<?php echo '<p>Hello World</p>'; ?>
+<?php 
+echo '<p>Hello World</p>';
 
-<?php
 $servername = env('DB_HOST', '127.0.0.1');
 $username = env('DB_USERNAME', 'forge');
 $password = env('DB_PASSWORD', '');

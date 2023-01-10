@@ -1,5 +1,4 @@
 <?php 
-echo '<p>Hello World</p>';
 
 $servername = env('DB_HOST', '127.0.0.1');
 $username = env('DB_USERNAME', 'forge');

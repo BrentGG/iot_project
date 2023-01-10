@@ -1,9 +1,9 @@
 <?php 
-echo '<p>Hello, World</p>';
 
-$servername = env('DB_HOST', '127.0.0.1');
-$username = env('DB_USERNAME', 'forge');
-$password = env('DB_PASSWORD', '');
+
+$servername = "iotproject2023-server.mysql.database.azure.com";
+$username = "xbgvnmqlzs";
+$password = "NC37L7E8X5PJR420$";
 
 echo "<p>" . $servername . "</p>";
 

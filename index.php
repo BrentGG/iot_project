@@ -1,9 +1,10 @@
 <?php 
 
+echo "<p>Hello Bryan</p>";
 
-$servername = "iotproject2023-server.mysql.database.azure.com";
-$username = "xbgvnmqlzs";
-$password = "NC37L7E8X5PJR420$";
+$servername = "";
+$username = "";
+$password = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
